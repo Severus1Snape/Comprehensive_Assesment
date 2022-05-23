@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="11" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-23T16:47:33 IST" name="Default suite" finished-at="2022-05-23T16:48:21 IST" duration-ms="48294">
+    <groups>
+    </groups>
+    <test started-at="2022-05-23T16:47:33 IST" name="Default test" finished-at="2022-05-23T16:48:21 IST" duration-ms="48294">
+      <class name="Hybrid.logincrm">
+        <test-method is-config="true" signature="setupsuite()[pri:0, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:47:33 IST" name="setupsuite" finished-at="2022-05-23T16:47:33 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupsuite -->
+        <test-method is-config="true" signature="voidsetup()[pri:0, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:47:33 IST" name="voidsetup" finished-at="2022-05-23T16:47:44 IST" duration-ms="11310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- voidsetup -->
+        <test-method signature="loginApp()[pri:1, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:47:44 IST" name="loginApp" finished-at="2022-05-23T16:47:49 IST" duration-ms="4692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="signupapp()[pri:2, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:47:49 IST" name="signupapp" finished-at="2022-05-23T16:47:57 IST" duration-ms="7700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupapp -->
+        <test-method signature="searchupapp()[pri:3, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:47:57 IST" name="searchupapp" finished-at="2022-05-23T16:48:00 IST" duration-ms="3735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchupapp -->
+        <test-method signature="Bedapp()[pri:4, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:48:00 IST" name="Bedapp" finished-at="2022-05-23T16:48:08 IST" duration-ms="7285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bedapp -->
+        <test-method signature="Bedappcart()[pri:5, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:48:08 IST" name="Bedappcart" finished-at="2022-05-23T16:48:13 IST" duration-ms="5514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bedappcart -->
+        <test-method signature="assertionaa()[pri:6, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:48:13 IST" name="assertionaa" finished-at="2022-05-23T16:48:15 IST" duration-ms="2236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertionaa -->
+        <test-method signature="tvappcart()[pri:7, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:48:15 IST" name="tvappcart" finished-at="2022-05-23T16:48:17 IST" duration-ms="1759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tvappcart -->
+        <test-method signature="studyapp()[pri:8, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:48:17 IST" name="studyapp" finished-at="2022-05-23T16:48:19 IST" duration-ms="2415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studyapp -->
+        <test-method signature="aboutapp()[pri:9, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:48:19 IST" name="aboutapp" finished-at="2022-05-23T16:48:20 IST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutapp -->
+        <test-method signature="infoapp()[pri:10, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:48:20 IST" name="infoapp" finished-at="2022-05-23T16:48:20 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- infoapp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Hybrid.logincrm@3ce1e309]" started-at="2022-05-23T16:48:20 IST" name="teardown" finished-at="2022-05-23T16:48:21 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Hybrid.logincrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
